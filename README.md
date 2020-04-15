@@ -1,4 +1,4 @@
-My first project using React.js
+Robofriends roject using React.js + Redux
 
 ### To run this project
 1. Clone this repo
